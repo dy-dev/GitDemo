@@ -2,5 +2,5 @@
 
 int main() 
 {
-    std::cout << "Hello B1 EPSI" << std::endl;
+    std::cout << "Hello B1 EPSI et vive le C++" << std::endl;
 }
