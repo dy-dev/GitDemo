@@ -11,6 +11,8 @@ int main(int argc, char** argv)
         cout << " Usage: " << argv[0] << " ImageToLoadAndDisplay" << endl;
         return -1;
     }
+    cout << "toto" << endl;
+
     Mat image;
     image = imread(argv[1], IMREAD_COLOR); // Read the file
     if (image.empty()) // Check for invalid input
