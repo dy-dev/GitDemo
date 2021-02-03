@@ -11,6 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Source.cpp" />
     <ClCompile Include="sources\AccessToGit.cpp" />
     <ClCompile Include="sources\Source.cpp" />
   </ItemGroup>
